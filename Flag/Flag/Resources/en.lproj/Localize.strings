@@ -1,0 +1,26 @@
+/* 
+  Localize.strings
+  Flag
+
+  Created by Morgan Collino on 4/13/21.
+  
+*/
+
+"france" = "France";
+"italy" = "Italy";
+"spain" = "Spain";
+"usa" = "United States of America";
+"uk" = "Great Britain";
+"netherlands" = "Netherlands";
+"belgium" = "Belgium";
+"switzerland" = "Switzerland";
+"germany" = "Germany";
+"portugal" = "Portugal";
+"turkey" = "Turkey";
+"canada" = "Canada";
+"mexico" = "Mexico";
+"algeria" = "Algeria";
+"marocco" = "Marocco";
+"sweden" = "Sweden";
+"egypt" = "Egypt";
+"alsace" = "Alsace";
