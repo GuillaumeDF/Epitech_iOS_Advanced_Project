@@ -1,6 +1,11 @@
 import UIKit
+import Core
+import Home
 
 public class HomePresenter {
+    
+    public init() {}
+
     public func fetchFlags(onCompletion: (HomeViewModel) -> Void) {
         
         var allCoutries: [Country] = []
