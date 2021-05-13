@@ -1,4 +1,4 @@
-    import UIKit
+import UIKit
 
 public struct Country {
     public let flagAsset: UIImage
