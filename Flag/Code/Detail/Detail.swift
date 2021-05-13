@@ -1,4 +1,5 @@
 import UIKit
+import Detail
 
 public class Detail: UIViewController {
 

@@ -18,4 +18,5 @@ TODO: Add long description of the pod here.
   s.resource_bundles = {
     '__TEMPLATE__' => ['__TEMPLATE__/Assets/*.png']
   }
+  #s.dependency 'Core'
 end
