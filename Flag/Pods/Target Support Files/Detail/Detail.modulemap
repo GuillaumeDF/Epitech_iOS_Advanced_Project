@@ -1,0 +1,6 @@
+framework module Detail {
+  umbrella header "Detail-umbrella.h"
+
+  export *
+  module * { export * }
+}

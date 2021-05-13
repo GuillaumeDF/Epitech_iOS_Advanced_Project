@@ -1,0 +1,27 @@
+PODS:
+  - Core (0.1.0)
+  - Detail (0.1.0)
+  - Home (0.1.0):
+    - Core
+
+DEPENDENCIES:
+  - Core (from `./Frameworks/Core/`)
+  - Detail (from `./Frameworks/Detail/`)
+  - Home (from `./Frameworks/Home/`)
+
+EXTERNAL SOURCES:
+  Core:
+    :path: "./Frameworks/Core/"
+  Detail:
+    :path: "./Frameworks/Detail/"
+  Home:
+    :path: "./Frameworks/Home/"
+
+SPEC CHECKSUMS:
+  Core: c3ea1975bc6f9aabb7145d72ade7fae0148200e0
+  Detail: 8ef817caeebe8a6c4ffed311731ce392d4a219b0
+  Home: 2361d1b008dfd0289fbf69a6f07680d177cff903
+
+PODFILE CHECKSUM: fec7347174a0dfaef50dce1f7acc527fcea29cb0
+
+COCOAPODS: 1.10.1
