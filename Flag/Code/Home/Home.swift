@@ -4,7 +4,7 @@ import Home
 public class Home: UIViewController {
 
     @IBOutlet private weak var tableView: UITableView!
-    
+
     public var viewModel: HomeViewModel!
     public var router: HomeViewRouting!
     public var presenter: HomePresenter!
