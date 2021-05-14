@@ -12,9 +12,9 @@ __TEMPLATE__ is available locally through [CocoaPods](https://cocoapods.org). To
 it, simply add the following line to your Podfile:
 
 ```
-pod '__TEMPLATE__', :path => './Code/__TEMPLATE__'
+pod '__TEMPLATE__', :path => './Frameworks/__TEMPLATE__'
 ```
 
 ## Author
 
-Morgan Collino, morgan1.collino@epitech.eu
+Guillaume Djaider Fornari, guillaume.djaider-forrnari@epitech.eu

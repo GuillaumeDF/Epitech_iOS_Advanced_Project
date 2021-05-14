@@ -1,4 +1,5 @@
 import UIKit
+import Core
 
 public class HomeCell: UITableViewCell {
 
