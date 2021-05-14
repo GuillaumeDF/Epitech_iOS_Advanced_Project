@@ -1,4 +1,5 @@
 import UIKit
+import FirebaseAnalytics
 
 public class Home: UIViewController {
 
@@ -14,6 +15,17 @@ public class Home: UIViewController {
             self?.viewModel = viewModel
             self?.tableView.reloadData()
         }
+    }
+    
+    public override func viewDidAppear(_ animated: Bool)
+    {
+        super.viewDidAppear(animated)
+        
+        Analytics.logEvent("firebaseAnalytics",
+                           parameters: [
+                            "view": "Home",
+                            "event": "viewWillAppear"
+                           ])
     }
 }
 
