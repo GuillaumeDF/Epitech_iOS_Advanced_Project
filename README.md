@@ -15,10 +15,10 @@ We have implemented the following technologies:
 
 ## Usage
 
-Install [Homebrew](https://brew.sh/) if you do not have it.
-Install [Swiftlint](https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/wiki/Swiftlint)
-Install [Swiftgen](https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/wiki/Swiftgen)
-Launch the project on XCode 12
+1. Install [Homebrew](https://brew.sh/) if you do not have it.
+2. Install [Swiftlint](https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/wiki/Swiftlint)
+3. Install [Swiftgen](https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/wiki/Swiftgen)
+4. Launch the project on XCode 12
 
 You should be able to run the project on an iOS simulator.
 
