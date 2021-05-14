@@ -18,9 +18,9 @@ EXTERNAL SOURCES:
     :path: "./Frameworks/Home/"
 
 SPEC CHECKSUMS:
-  Core: c3ea1975bc6f9aabb7145d72ade7fae0148200e0
-  Detail: 8ef817caeebe8a6c4ffed311731ce392d4a219b0
-  Home: 2361d1b008dfd0289fbf69a6f07680d177cff903
+  Core: eb678f96edcf0a71d3ec37616fc75a652872bc33
+  Detail: 0cf2d4d034837d6fab092d37b7edfba4fcd22aba
+  Home: e56c37e412b5cac2640624585f8e97820a2651bf
 
 PODFILE CHECKSUM: fec7347174a0dfaef50dce1f7acc527fcea29cb0
 
