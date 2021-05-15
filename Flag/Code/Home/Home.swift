@@ -1,5 +1,6 @@
 import UIKit
 import FirebaseAnalytics
+import FirebaseCrashlytics
 
 public class Home: UIViewController {
 
@@ -26,6 +27,8 @@ public class Home: UIViewController {
                             "view": "Home",
                             "event": "viewWillAppear"
                            ])
+        //let trace = Performance.startTrace(name: "CUSTOM_TRACE_NAME")
+
     }
 }
 
@@ -34,6 +37,12 @@ extension Home: UITableViewDelegate {
     public func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let country = viewModel.countries[indexPath.row]
         let view = router.getDetail(country: country)
+        Analytics.logEvent("firebaseAnalytics",
+                           parameters: [
+                            "view": "Home",
+                            "event": "onFlagSelection",
+                            "selectedFlag": country.name
+                           ])
         navigationController?.pushViewController(view, animated: true)
     }
 }
