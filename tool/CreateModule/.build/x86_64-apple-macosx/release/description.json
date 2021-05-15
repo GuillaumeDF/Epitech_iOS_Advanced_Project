@@ -1,0 +1,532 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModulePackageTests.xctest/Contents/MacOS/CreateModulePackageTests",
+      "packageName" : "CreateModule",
+      "productName" : "CreateModulePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.ArgumentParser-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ArgumentParser",
+      "moduleOutputPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.swiftmodule",
+      "objects" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/BashCompletionsGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/CompletionsGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/FishCompletionsGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/ZshCompletionsGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Argument.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/ArgumentHelp.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/CompletionKind.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Errors.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Flag.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/NameSpecification.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Option.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/OptionGroup.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/CommandConfiguration.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/EnumerableFlag.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableArguments.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableArgumentsValidation.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableCommand.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDecoder.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDefinition.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentSet.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/CommandParser.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/InputOrigin.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Name.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Parsed.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParsedValues.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParserError.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/SplitArguments.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpCommand.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/MessageInfo.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/UsageGenerator.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/SequenceExtensions.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/StringExtensions.swift.o",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/Tree.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-O",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/ArgumentParser-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/BashCompletionsGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/CompletionsGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/FishCompletionsGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Completions/ZshCompletionsGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Argument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/ArgumentHelp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/CompletionKind.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Errors.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Flag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/NameSpecification.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Option.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/OptionGroup.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/CommandConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/EnumerableFlag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableArguments.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableArgumentsValidation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDecoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDefinition.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentSet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/CommandParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/InputOrigin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Name.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Parsed.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParsedValues.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParserError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/SplitArguments.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/MessageInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/UsageGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/SequenceExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/StringExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/Tree.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift"
+      ],
+      "tempsPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.build",
+      "WMO" : true
+    },
+    "C.CreateModule-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/Sources/CreateModule/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ArgumentParser.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "CreateModule",
+      "moduleOutputPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/CreateModule.swiftmodule",
+      "objects" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-O",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/CreateModule.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/Sources/CreateModule/main.swift"
+      ],
+      "tempsPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build",
+      "WMO" : true
+    },
+    "C.CreateModuleTests-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/Tests/CreateModuleTests/CreateModuleTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CreateModuleTests",
+      "moduleOutputPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModuleTests.swiftmodule",
+      "objects" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModuleTests.build/CreateModuleTests.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.15",
+        "-swift-version",
+        "5",
+        "-index-store-path",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-O",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModuleTests.build/CreateModuleTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModuleTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/Tests/CreateModuleTests/CreateModuleTests.swift"
+      ],
+      "tempsPath" : "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModuleTests.build",
+      "WMO" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

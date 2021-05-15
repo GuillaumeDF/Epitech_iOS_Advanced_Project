@@ -1,4 +1,7 @@
 import UIKit
+import FirebaseAnalytics
+import FirebaseCrashlytics
+import FirebasePerformance
 import Firebase
 import Home
 
@@ -33,6 +36,21 @@ public class Home: UIViewController {
         }
     }
     
+    public override func viewDidAppear(_ animated: Bool)
+    {
+        super.viewDidAppear(animated)
+        
+        Analytics.logEvent("firebaseAnalytics",
+                           parameters: [
+                            "view": "Home",
+                            "event": "viewWillAppear"
+                           ])
+        let trace = Performance.startTrace(name: "Super trace !")
+        trace?.start()
+        trace?.stop()
+
+    }
+    
     func fetchConfig() {
         remoteConfig.fetch() { (status, error) -> Void in
           if status == .success {
@@ -57,6 +75,12 @@ extension Home: UITableViewDelegate {
 
     public func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let country = viewModel.countries[indexPath.row]
+        Analytics.logEvent("firebaseAnalytics",
+                           parameters: [
+                            "view": "Home",
+                            "event": "onFlagSelection",
+                            "selectedFlag": country.name
+                           ])
         let view = router.getDetail(country: country, textColor: self.textColor)
         navigationController?.pushViewController(view, animated: true)
     }

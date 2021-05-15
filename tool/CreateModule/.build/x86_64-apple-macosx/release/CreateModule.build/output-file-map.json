@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/CreateModule.d",
+    "object": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/CreateModule.o",
+    "swift-dependencies": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/master.swiftdeps"
+  },
+  "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/Sources/CreateModule/main.swift": {
+    "object": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/main.swift.o",
+    "swiftmodule": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/yoahn/Library/Mobile Documents/com~apple~CloudDocs/EPITECH/4_years/iOS Advenced/Epitech_iOS_Advanced_Project/tool/CreateModule/.build/x86_64-apple-macosx/release/CreateModule.build/main.swiftdeps"
+  }
+}
