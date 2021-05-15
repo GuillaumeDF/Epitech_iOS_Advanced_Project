@@ -1,0 +1,8 @@
+xcassets:
+  inputs:
+    - Resources/Flags.xcassets
+  outputs:
+    templateName: swift5
+    output: Assets.swift
+    params:
+      allValues: true

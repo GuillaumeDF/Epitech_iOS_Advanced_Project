@@ -1,4 +1,5 @@
 import UIKit
+import Detail
 
 public class Detail: UIViewController {
 
@@ -12,5 +13,6 @@ public class Detail: UIViewController {
 
         imageView.image = viewModel.image
         textLabel.text = viewModel.text
+        textLabel.textColor = viewModel.textColor
     }
 }

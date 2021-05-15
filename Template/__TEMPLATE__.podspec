@@ -7,9 +7,9 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage = 'https://github.com/Xodia/__TEMPLATE__'
-  s.author = { 'Morgan Collino' => 'morgan1.collino@epitech.eu' }
-  s.source = { :git => 'https://github.com/Xodia/__TEMPLATE__.git', :tag => s.version.to_s }
+  s.homepage = 'https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/tree/main/Flag/Frameworks/__TEMPLATE__'
+  s.author = { 'Guillaume Djaider Fornari' => 'guillaume.djaider-forrnari@epitech.eu' }
+  s.source = { :git => 'https://github.com/Dev-Guillaume/Epitech_iOS_Advanced_Project/tree/main/Flag/Frameworks/__TEMPLATE__.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
 
@@ -18,4 +18,5 @@ TODO: Add long description of the pod here.
   s.resource_bundles = {
     '__TEMPLATE__' => ['__TEMPLATE__/Assets/*.png']
   }
+  #s.dependency 'Core'
 end
