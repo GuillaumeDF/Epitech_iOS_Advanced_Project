@@ -1,5 +1,6 @@
 import UIKit
 import Firebase
+import FirebasePerformance
 
 var remoteConfig = RemoteConfig.remoteConfig()
 

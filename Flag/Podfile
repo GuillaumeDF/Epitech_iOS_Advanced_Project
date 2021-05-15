@@ -7,6 +7,10 @@ target 'Flag' do
   pod 'Detail', :path => './Frameworks/Detail/'
   pod 'Core', :path => './Frameworks/Core/'
   pod 'Home', :path => './Frameworks/Home/'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+  pod 'Firebase/Performance'
+
   # Pods for Flag
 
 end
